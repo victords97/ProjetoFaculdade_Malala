@@ -1,0 +1,39 @@
+.div1{
+    background-color: rgb(8, 2, 41);
+   
+}
+.h1{
+    background-color: white;
+    color: black;
+}
+.img{
+    margin-left: 380px;
+     border-radius: 50px;
+}
+.h3{
+    text-align: center;
+}
+.div2{
+    text-align: center;
+    border-radius: 20px 20px 20px 20px;
+    background-color: rgb(8, 2, 41);
+    color: white;
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 0px 10px 0px 10px;
+}
+.div3{
+    text-align: center;
+    border-radius: 20px 20px 20px 20px;
+    background-color: rgb(8, 2, 41);
+    color: white;
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 0px 10px 0px 10px;
+}
+.h1{
+    text-align: center;
+}
+.img2{
+   margin-left: 280px; 
+}

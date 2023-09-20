@@ -1,0 +1,26 @@
+.img1{
+    margin-left: 250px;
+    border-radius: 500px 100px 500px 0px;
+}
+.div1{
+    text-align: center;
+    border-radius: 20px 20px 20px 20px;
+    background-color: rgb(8, 2, 41);
+    color: white;
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 0px 10px 0px 10px;
+    
+}
+.h1{
+    text-align: center;
+}
+.div2{
+    text-align: center;
+    border-radius: 20px 20px 20px 20px;
+    background-color: rgb(8, 2, 41);
+    color: white;
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 0px 10px 0px 10px;
+}
